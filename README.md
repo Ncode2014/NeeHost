@@ -36,12 +36,13 @@ cara gunakannya gampang tinggal download dan copy paste aja host nya (disarankan
 ```
 
 ## APPS & SOURCE
-[Virtual_Hosts](https://github.com/x-falcon/Virtual-Hosts).
-[Source_Raw_Host](https://github.com/gvoze32/unblockhostid).
+[Virtual Hosts](https://github.com/x-falcon/Virtual-Hosts).
+
+[Source Raw Host](https://github.com/gvoze32/unblockhostid).
 
 ## Author
 
-👤 **Ncode2014 & UnBlockHost.ID for Raw Host**
+👤 **Ncode2014**
 
 * Github: [@Ncode2014](https://github.com/Ncode2014)
 * Instagram: [@nzteam_271](https://instagram.com/nzteam_271)
