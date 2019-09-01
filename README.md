@@ -7,6 +7,8 @@
 
 ### 🏠 [Homepage](https://github.com/Ncode2014/NoChanNewHost)
 
+### Changelog
+
 [Changelog Update] (https://github.com/Ncode2014/NoChanNewHost/changelog.md)
 
 ## Cara memasang Untuk Root
@@ -31,6 +33,8 @@ https://raw.githubusercontent.com/Ncode2014/NoChanNewHost/master/hosts
 ```
 cara gunakannya gampang tinggal download dan copy paste aja host nya (disarankan Backup Host Dulu) kalau udh tinggal nikmatin
 ```
+
+### APPS & SOURCE
 [Virtual_Hosts] (https://github.com/x-falcon/Virtual-Hosts)
 [Source_Raw_Host] (https://github.com/gvoze32/unblockhostid)
 
