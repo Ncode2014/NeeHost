@@ -1,6 +1,6 @@
 # ChangeLog Update 
-```
 **V1.0** First Relaese
+```
 -fixed hentai.cafe
 -added pururin.io
 -added 8muses.com
