@@ -9,7 +9,7 @@
 
 ## Changelog
 
-[Changelog Update](https://github.com/Ncode2014/NoChanNewHost/changelog.md).
+[Changelog Update](https://github.com/Ncode2014/NoChanNewHost/Changelog.md).
 
 ## Cara memasang Untuk Root
 
