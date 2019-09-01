@@ -7,6 +7,8 @@
 
 ### 🏠 [Homepage](https://github.com/Ncode2014/NoChanNewHost)
 
+### [Changelog Update] (https://github.com/Ncode2014/NoChanNewHost/changelog.md)
+
 ## Cara memasang Untuk Root
 
 ```
