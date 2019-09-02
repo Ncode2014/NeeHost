@@ -12,8 +12,14 @@
 
 [Changelog Update](https://github.com/Ncode2014/NoChanNewHost/blob/master/Changelog.md).
 
-## Cara memasang Untuk Root
+## For Nekopoi and Other Website (warning!)
+```
+beberapa website tolong gunakan "https:\\" karena ipo-chan biasanya deteksi di http website
+jadi biasanya yang pake http kena begal ipo-chan jadi disarankan pakai "https:\\"
+for indihome & other Provider yang gunakan ipo-chan buat proteksi website p*rn
+```
 
+## Cara memasang Untuk Root
 ```
 copy paste ke /system/etc/hosts or /etc/hosts Untuk User root 
 ```
@@ -24,6 +30,7 @@ lalu pilih yang "from internet" nanti kan ada url input lalu ganti url inputnya 
 lalu copy dan paste pada url inputnya nanti kalau udh dipaste klik logo download di app virtual hosts nya kalau ada tulisan done klik confirm 
 dan aktifkan dengan sekali pencet nanti kalau ada perintah connection request klik ok aja dan aktif deh
 ```
+
 ## Url Input Raw No root
 ```
 https://raw.githubusercontent.com/Ncode2014/NoChanNewHost/master/hosts
