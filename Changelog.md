@@ -7,6 +7,7 @@
 - added Ad website
 ```
 Ad Website in fact is a website that is taken from The Old NoChan repo (deleted for some reason)
+fixed nekopoi.care
 ```
 
 
