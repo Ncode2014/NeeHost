@@ -1,7 +1,7 @@
 # ChangeLog Update 
 
 ## What's New
-**1.0 beta 1** Beta update
+**1.0 beta 2** Beta update
 - added Doujins.com
 - added Ad website
 ```
