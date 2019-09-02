@@ -1,4 +1,14 @@
 # ChangeLog Update 
+
+## What's New
+**1.0 beta 1** Beta update
+- added Doujins.com
+- added Ad website
+```
+Ad Website in fact is a website that is taken from The Old NoChan repo (deleted for some reason)
+```
+
+
 **V1.0** First Relaese
 - added pururin.io
 - added 8muses.com
