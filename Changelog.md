@@ -1,14 +1,15 @@
 # ChangeLog Update 
 
 ## What's New
-**1.0 bulid 2 Fix**
+
+>**1.0 bulid 2 Fix**
 ## Date 03/09/2019
 ```
 Fixing Doujins.com Because Slow response On Ip
 ```
 
 
-**1.0 bulid 2** Beta update 
+>**1.0 bulid 2** Beta update 
 ## Date 02/09/2019
 - added Doujins.com
 - added Ad website
@@ -18,7 +19,7 @@ fixed nekopoi.care
 ```
 
 
-**V1.0** First Relaese
+>**V1.0** First Relaese
 ### Date 01/09/2019
 - added pururin.io
 - added 8muses.com
