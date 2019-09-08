@@ -1,8 +1,9 @@
 # ChangeLog Update 
 
-## What's New
+## What's New Host comming soon relaese
+
 >**Comming soon 1.1**
-## Version 1.0 updated 
+## What's New on 1.0 bulid 2 
 
 >**1.0 end bulid 2 (this end version for 1.0)**
 ## Date 08/09/2019
