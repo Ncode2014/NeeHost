@@ -2,6 +2,7 @@
 
 ## What's New
 >**Comming soon 1.1**
+## Version 1.0 updated 
 
 >**1.0 end bulid 2 (this end version for 1.0)**
 ## Date 08/09/2019
