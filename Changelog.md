@@ -1,6 +1,19 @@
 # ChangeLog Update 
 
 ## What's New
+>**Comming soon 1.1**
+
+>**1.0 end bulid 2 (this end version for 1.0)**
+## Date 08/09/2019
+```
+fixed xvideos.com
+fixed pornhub.com
+added kumpulkebo69.blogspot.com
+added jav18.tv
+added xvideoku.blogspot.co.id
+added jamhd.com
+added kimochi.tv
+```
 
 >**1.0 bulid 2 Fix**
 ## Date 03/09/2019
