@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to NoChanNewHost 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
-  <img alt="size" src="https://img.shields.io/github/size/Ncode2014/NoChanNewHost/master/hosts?style=flat-square?cacheSeconds=2592000" /
+  <img alt="size" src="https://img.shields.io/github/repo-size/Ncode2014/NoChanNewHost" />
   <img alt="beta" src="https://img.shields.io/badge/bulid-0.3-green?style=flat-square">
   <img alt="fixed" src="https://img.shields.io/badge/bugfix-11-red?style=flat-square">
 </p>
