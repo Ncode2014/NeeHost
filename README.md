@@ -1,10 +1,10 @@
 <h1 align="center">Welcome to NoChanNewHost 👋</h1>
 <p>
  <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
-  <img alt="beta" src="https://img.shields.io/badge/bulid-0.2-green?style=flat-square">
+  <img alt="beta" src="https://img.shields.io/badge/alpha-green?style=flat-square">
   <img alt="size" src="https://img.shields.io/github/repo-size/Ncode2014/NoChanNewHost" />
   <img alt="beta" src="https://img.shields.io/badge/bulid-0.3-green?style=flat-square">
-  <img alt="fixed" src="https://img.shields.io/badge/bugfix-11-red?style=flat-square">
+  <img alt="fixed" src="https://img.shields.io/badge/fixed-13-red?style=flat-square">
 </p>
  
 > host ini buat handphone root dan no-root fungsi host ini buat bypass ipo-chan sama safesearch google Credit for Unblockhostid for Raw hostnya 
