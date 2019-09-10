@@ -352,6 +352,7 @@
 104.28.20.226 tsumino.com
 104.28.2.29 ga.tsumino.com
 104.28.2.29 www.tsumino.com
+104.28.3.29 www.tsumino.com  
 167.114.116.55 r34.tsumino.com
 104.28.21.226 www.tsumino.com
 
@@ -712,9 +713,46 @@
 
 # [HENTAI.CAFE]
 104.25.24.115 hentai.cafe
+104.25.23.115 hentai.cafe
 104.25.23.115 www.hentai.cafe
+104.25.24.115 www.hentai.cafe
+36.86.63.185 dns0.hentai.cafe
+36.86.63.185 mx.hentai.cafe 
+36.86.63.185 stats.hentai.cafe
+36.86.63.185 host.hentai.cafe 
+36.86.63.185 development.hentai.cafe 
+36.86.63.185 administration.hentai.cafe
+36.86.63.185 mx0.hentai.cafe 
+36.86.63.185 svn.hentai.cafe 
+36.86.63.185 http.hentai.cafe
+36.86.63.185 admin.hentai.cafe 
+36.86.63.185 devsql.hentai.cafe 
+36.86.63.185 ads.hentai.cafe 
+36.86.63.185 mx1.hentai.cafe
+36.86.63.185 syslog.hentai.cafe
+36.86.63.185 devtest.hentai.cafe
+36.86.63.185 adserver.hentai.cafe
+36.86.63.185 test.hentai.cafe
+36.86.63.185 dchp.hentai.cafe
+36.86.63.185 alerts.hentai.cafe
+36.86.63.185 test1.hentai.cafe
+36.86.63.185 direct.hentai.cafe 
+36.86.63.185 alpha.hentai.cafe
+36.86.63.185 test2.hentai.cafe
+36.86.63.185 dmz.hentai.cafe
+36.86.63.185 ap.hentai.cafe
+36.86.63.185 dns.hentai.cafe
+36.86.63.185 apache.hentai.cafe
+36.86.63.185 dns0.hentai.cafe
+36.86.63.185 app.hentai.cafe
+36.86.63.185 dns1.hentai.cafe
 104.25.23.115 cdn.hentai.cafe
 104.25.24.115 cdn.hentai.cafe
+36.86.63.185 ssl.hentai.cafe
+36.86.63.185 mssql.hentai.cafe 
+36.86.63.185 stage.hentai.cafe 
+36.86.63.185 mta.hentai.cafe 
+
 
 # [PORNTREX.COM]
 109.201.133.9 porntrex.com www.porntrex.com
