@@ -4475,3 +4475,12 @@
 127.0.0.1 fwmrm.net
 127.0.0.1 innovid.com
 127.0.0.1 2mdn.net
+
+# [BlockerIsp-CelullerNet]
+127.0.0.1 internetbaik.telkomsel.com
+127.0.0.1 internet.tri.co.id 
+127.0.0.1 restricted.tri.co.id
+127.0.0.1 internetbaik.telkomsel.com
+127.0.0.1   ads.indosatooredoo.com
+127.0.0.1   netsafe.indosatooredoo.com
+127.0.0.1 114.6.128.4
