@@ -1,9 +1,20 @@
 # ChangeLog Update 
 
-## What's New Host comming soon relaese
 
->**Comming soon 1.1**
-## What's New on 1.0 bulid 2 
+## What's New on 1.1 (alpha Version) 
+
+>**1.1 (Alpha Test)**
+## Date 19/09/2019
+- added Isp Website Simcard
+- added NoYoutubeAds (Hope This Work)
+```
+Removed Tsumino (Because this website is hard to find the Host so YOU ​​wait after this alpha update to enjoy Tsumino again)
+fixed Nhentai.net
+fixed doujins.com
+fixed hentainexus
+fixed (some Website) (I forgot which website was fixed)
+```
+
 
 >**1.0 end bulid 2 (this end version for 1.0)**
 ## Date 08/09/2019
