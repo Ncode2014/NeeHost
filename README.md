@@ -1,15 +1,16 @@
 <h1 align="center">Welcome to NoChanNewHost 👋</h1>
 <p>
- <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
+ <img alt="Version" src="https://img.shields.io/badge/version-1.1-blue.svg?cacheSeconds=2592000" />
   <img alt="beta" src="https://img.shields.io/badge/alpha-green?style=flat-square">
   <img alt="size" src="https://img.shields.io/github/repo-size/Ncode2014/NoChanNewHost" />
-  <img alt="beta" src="https://img.shields.io/badge/bulid-0.3-green?style=flat-square">
-  <img alt="fixed" src="https://img.shields.io/badge/fixed-13-red?style=flat-square">
+  <img alt="fixed" src="https://img.shields.io/badge/fixed-15-red?style=flat-square">
 </p>
  
 > host ini buat handphone root dan no-root fungsi host ini buat bypass ipo-chan sama safesearch google Credit for Unblockhostid for Raw hostnya 
 
-### 🏠 [Homepage](https://github.com/Ncode2014/NoChanNewHost)
+### 🏠 [HomeRepo](https://github.com/Ncode2014/NoChanNewHost)
+
+### 🏡 [Blog Admin](https://www.mynafi.blogspot.com)
 
 ## Changelog
 
@@ -39,6 +40,12 @@ dan aktifkan dengan sekali pencet nanti kalau ada perintah connection request kl
 https://raw.githubusercontent.com/Ncode2014/NoChanNewHost/master/hosts
 ```
 
+## URL Input Raw No Root Beta
+```
+
+https://raw.githubusercontent.com/Ncode2014/NoChanNewHost/master/Test_hosts
+```
+
 ## Cara Pakai
 
 ```
@@ -58,9 +65,9 @@ cara gunakannya gampang tinggal download dan copy paste aja host nya (disarankan
 * Instagram: [@nzteam_271](https://instagram.com/nzteam_271)
 * Facebook: [ncodefb](https://facebook.com/skynafi2017)
 
-## Show your support
+## Berikan Support Host ini dengan
 
-Give a ⭐️ if this project helped you!
+Kirim Support Dan feedback Ke author Buat lanjutin Bikin Host lagi😘
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
