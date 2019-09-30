@@ -10,6 +10,8 @@
 
 ### 🏠 [HomeRepo](https://github.com/Ncode2014/NoChanNewHost)
 
+## Status Project = InActivate
+
 ### 🏡 [Blog Admin](https://www.mynafi.blogspot.com)
 
 ## Changelog
