@@ -1,6 +1,20 @@
 # ChangeLog Update 
 
 
+## Information Changelog 1.2
+ ```
+ for Information Nochan Now sedang inactive project 
+ dikarenakan Internet dirumah Sedang tidak stabil 
+ Jadi Menyulitkan Pencarian Host Dengan ini 
+ Sementara Waktu 1.2 Sedang Di Hentikan sementara
+ Nunggu Minggu Depan Sampai Internet Kembali Lancar
+ English Version
+for Information Nochan Now is inactive project  
+Because the Internet at home is not stable
+So Difficult to Search Host with this  
+While Time 1.2 is being paused  
+Wait for the Next Week Until the Internet Runs Again
+ ```
 ## What's New on 1.1 (alpha Version) 
 
 >**1.1 (Alpha Test)**
