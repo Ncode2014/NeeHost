@@ -1,20 +1,28 @@
 # ChangeLog Update 
+# NzHost 
 
 
-## Information Changelog 1.2
- ```
- for Information Nochan Now sedang inactive project 
- dikarenakan Internet dirumah Sedang tidak stabil 
- Jadi Menyulitkan Pencarian Host Dengan ini 
- Sementara Waktu 1.2 Sedang Di Hentikan sementara
- Nunggu Minggu Depan Sampai Internet Kembali Lancar
- English Version
-for Information Nochan Now is inactive project  
-Because the Internet at home is not stable
-So Difficult to Search Host with this  
-While Time 1.2 is being paused  
-Wait for the Next Week Until the Internet Runs Again
- ```
+## Information For Doujins & Nhentai
+```
+for now doujins.com and nhentai.net it is possible that it cannot be bypassed 
+because there are problems from the server side and ddns that have been blocked by Kominfo :'(
+```
+## For Update Future 1.2 final or 1.3
+```
+Update 1.2 final Relaese or 1.3 (alpha Version) is the last version for this Year
+ Because Admin Now is busy with real life so Create Update 1.4 Release to coincide with the Beginning of 2020,
+ I'm sorry But It has to be this way
+```
+
+## What's New on 1.2 (Alpha Version)
+## Date 12/10/2019
+- Major Update Only
+- Tsumino No longer Added because side ddns server is blocked Kominfo :'(
+``` 
+Removed Ad-Block Site & Removed Anti Block Yt Because Some error On Ad-Blocker Apps :'(
+fixed Nhentai (Hope This Work)
+```
+ 
 ## What's New on 1.1 (alpha Version) 
 
 >**1.1 (Alpha Test)**
