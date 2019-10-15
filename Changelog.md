@@ -13,6 +13,14 @@ Update 1.2 final Relaese or 1.3 (alpha Version) is the last version for this Yea
  Because Admin Now is busy with real life so Create Update 1.4 Release to coincide with the Beginning of 2020,
  I'm sorry But It has to be this way
 ```
+## What's New on 1.2 (Re-Final Relaese)
+## This File On Test_Host For those of you who want to try this new update
+## Date 16/10/2019
+- Adding & Updated Ad-Block Site & Anti Block
+```
+Fixed Jav.guru
+Fixed Pornhub.com
+```
 
 ## What's New on 1.2 (Alpha Version)
 ## Date 12/10/2019
