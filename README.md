@@ -2,11 +2,11 @@
 Ini Host Buat Bypass Host Buat Ngatasin IPO-Chan Support For Operator celuller &amp; Provider Indihome   Credit By UnblockHostId For Source Host 
 <h1 align="center">Welcome to NoChanNewHost 👋</h1>
 <p>
- <img alt="Version" src="https://img.shields.io/badge/version-1.1-blue.svg?cacheSeconds=2592000" />
-  <img alt="beta" src="https://img.shields.io/badge/alpha-green?style=flat-square">
+ <img alt="Version" src="https://img.shields.io/badge/version-1.2-blue.svg?cacheSeconds=2592000" />
+  <img alt="beta" src="https://img.shields.io/badge/ReFinal-green?style=flat-square">
 <img alt="Project" src="https://img.shields.io/badge/Status-active-green.svg?style=flat-square">
   <img alt="size" src="https://img.shields.io/github/repo-size/Ncode2014/NoChanNewHost" />
-  <img alt="fixed" src="https://img.shields.io/badge/fixed-15-red?style=flat-square">
+  <img alt="fixed" src="https://img.shields.io/badge/fixed-17-red?style=flat-square">
 </p>
  
 > host ini buat handphone root dan no-root fungsi host ini buat bypass ipo-chan sama safesearch google Credit for Unblockhostid for Raw hostnya
