@@ -10,7 +10,7 @@
 
 # [REDDIT.COM]
 151.101.129.140 reddit.com
-151.101.129.140 www.reddit.com
+151.101.53.140 www.reddit.com
 151.101.1.140 np.reddit.com
 151.101.1.140 bt.reddit.com
 151.101.1.140 m.reddit.com
@@ -19,7 +19,6 @@
 151.101.1.140 e.reddit.com
 151.101.1.140 about.reddit.com
 151.101.1.140 st.reddit.com
-151.101.1.140 e.reddit.com
 151.101.1.140 ssl.reddit.com
 151.101.1.140 oauth.reddit.com
 151.101.1.140 out.reddit.com
@@ -27,7 +26,7 @@
 151.101.1.140 old.reddit.com
 151.101.1.140 sendbird.reddit.com
 151.101.1.140 new.reddit.com
-151.101.129.140 gateway.reddit.com
+151.101.1.140 gateway.reddit.com
 151.101.1.140 events.reddit.com
 52.44.97.90 alb.reddit.com
 151.101.129.140 en.reddit.com
@@ -44,7 +43,86 @@
 151.101.53.140 v.redd.it s.reddit.com external-preview.redd.it
 151.101.189.140 preview.redd.it
 151.101.69.140 styles.redditmedia.com
-151.101.41.140 gql.reddit.com
+151.101.53.140 gql.reddit.com
+151.101.1.140 buttons.reddit.com
+151.101.1.140 amp.reddit.com
+151.101.1.140 rapi.reddit.com
+151.101.1.140 digg.comold.reddit.com
+151.101.1.140 fn.reddit.com
+151.101.1.140 cdn.reddit.com
+151.101.1.140 digg.comwww.reddit.com
+151.101.1.140 xa.reddit.com
+151.101.1.140 xr.reddit.com
+151.101.1.140 line.reddit.com
+151.101.1.140 imagur.reddit.com
+151.101.1.140 strapi.reddit.com
+151.101.1.140 d.reddit.com
+151.101.1.140 meta-api.reddit.com
+151.101.1.140 ads.reddit.com
+151.101.1.140 bettertouchtool.reddit.com
+151.101.1.140 pixel.reddit.com
+151.101.1.140 v21.reddit.com
+151.101.1.140 diaperedhentai.reddit.com
+151.101.1.140 abdl.reddit.com
+151.101.1.140 as.reddit.com
+151.101.1.140 i.reddit.com
+151.101.1.140 beta.reddit.com
+151.101.1.140 pepetraders.reddit.com
+151.101.1.140 so.reddit.com
+151.101.1.140 ps.reddit.com
+151.101.1.140 thumbs.reddit.com
+151.101.1.140 2fwww.reddit.com
+151.101.1.140 sp.reddit.com
+151.101.1.140 ex.reddit.com
+151.101.1.140 no.reddit.com
+151.101.1.140 h.reddit.com
+151.101.1.140 bitfinex.reddit.com
+3.208.46.58 rhs.reddit.com
+151.101.1.140 effectai.reddit.com
+151.101.1.140 toqqn.reddit.com
+151.101.1.140 pectiv.reddit.com
+151.101.1.140 dc.reddit.com
+151.101.1.140 ud.reddit.com
+151.101.1.140 security.reddit.com
+151.101.1.140 acer.reddit.com
+151.101.1.140 cc.reddit.com
+151.101.1.140 gg.reddit.com
+151.101.1.140 se.reddit.com
+151.101.1.140 habs.reddit.com
+151.101.1.140 ma.reddit.com
+151.101.1.140 eo.reddit.com
+151.101.1.140 loid.reddit.com
+151.101.1.140 es.reddit.com
+151.101.1.140 cx.reddit.com
+151.101.1.140 2fout.reddit.com
+151.101.1.140 ro.reddit.com
+151.101.1.140 news.reddit.com
+151.101.1.140 nl.reddit.com
+151.101.1.140 ol.reddit.com
+151.101.1.140 dd.reddit.com
+151.101.1.140 yogscast.reddit.com
+151.101.1.140 jwww.reddit.com
+151.101.1.140 ja.reddit.com
+151.101.1.140 tr.reddit.com
+151.101.1.140 code.reddit.com
+151.101.1.140 static.reddit.com
+151.101.1.140 2fold.reddit.com
+151.101.1.140 de.reddit.com
+151.101.1.140 initref.reddit.com
+151.101.1.140 auth.reddit.com
+151.101.1.140 22www.reddit.com
+151.101.1.140 v2.reddit.com
+151.101.1.140 dreams.reddit.com
+151.101.1.140 srs.reddit.com
+151.101.1.140 rseor3.reddit.com
+151.101.1.140 edgebucket.reddit.com
+151.101.1.140 token.reddit.com
+151.101.1.140 rabt.reddit.com
+151.101.1.140 pt.reddit.com
+151.101.1.140 sf.reddit.com
+151.101.1.140 us.reddit.com
+151.101.1.140 fr.reddit.com
+151.101.1.140 252 fwww.reddit.com
 
 # [VIMEO.COM]
 151.101.130.109 i.vimeocdn.com
@@ -65,21 +143,9 @@
 104.27.216.28 thepiratebay.org
 
 # [HITOMI.LA]
-185.145.129.33 hitomi.la 
-185.145.131.184 www.hitomi.la
-23.237.36.202 a.hitomi.la
-23.237.36.202 aa.hitomi.la
-192.240.120.10 atn.hitomi.la
-192.240.120.10 ba.hitomi.la
-192.240.120.10 btn.hitomi.la
-23.237.36.202 la.hitomi.la
-192.240.120.10 ltn.hitomi.la
-192.240.120.10 streaming.hitomi.la
-192.240.120.10 tn.hitomi.la
-23.237.36.202 g.hitomi.la
-23.237.36.202 i.hitomi.la
-23.237.36.202 hf1.hitomi.la
-192.240.120.10 hf2.hitomi.la
+185.145.131.184 hitomi.la www.hitomi.la
+192.240.120.10 a.hitomi.la aa.hitomi.la atn.hitomi.la ba.hitomi.la btn.hitomi.la ca.hitomi.la
+192.240.120.10 ltn.hitomi.la streaming.hitomi.la tn.hitomi.la hf2.hitomi.la ctn.hitomi.la g.hitomi.la
 
 # [NHENTAI.NET]
 141.101.120.54 nhentai.net 
@@ -133,7 +199,7 @@
 192.124.249.11 hentaihaven.org www.hentaihaven.org
 
 # [PORNHUB.COM]
-66.254.114.41 pornhub.com 
+31.192.120.36 pornhub.com 
 66.254.114.41 www.pornhub.com
 31.192.120.41 upload.pornhub.com
 31.192.120.40 blog.pornhub.com
@@ -149,8 +215,11 @@
 104.31.90.62 tbib.org
 
 # [XHAMSTER.COM]
-88.208.18.30 xhamster.com www.xhamster.com m.xhamster.com mobi.xhamster.com
+88.208.60.136 xhamster.com www.xhamster.com m.xhamster.com mobi.xhamster.com
 88.208.31.1 xhcdn.com video.xhcdn.com
+88.208.36.222 xhamster7.com
+104.18.85.14 static-cl.xhcdn.com
+104.18.84.14 thumb-v-cl2.xhcdn.com
 
 # [JAVFOR.ME]
 104.25.219.15 javfor.me
@@ -656,26 +725,27 @@
 104.27.158.192 sexix.net www.sexix.net
 
 # [CHATURBATE.COM]
-104.16.147.241 fr.chaturbate.com
-104.16.146.241 zh.chaturbate.com
-104.16.147.241 ko.chaturbate.com
-104.16.147.241 ar.chaturbate.com
-104.16.146.241 de.chaturbate.com
+104.18.90.31 fr.chaturbate.com
+104.18.90.31 zh.chaturbate.com
+104.18.90.31 ko.chaturbate.com
+104.18.90.31 ar.chaturbate.com
+104.18.90.31 de.chaturbate.com
 50.18.156.150 support.chaturbate.com
-104.16.146.241 chaturbate.com
-104.16.146.241 jp.chaturbate.com
-104.16.147.241 nl.chaturbate.com
-104.16.146.241 it.chaturbate.com
-104.16.146.241 tr.chaturbate.com
-104.16.147.241 hi.chaturbate.com
-104.16.146.241 es.chaturbate.com
-104.16.147.241 ru.chaturbate.com
-104.16.147.241 ei.chaturbate.com
-104.16.146.241 blog.chaturbate.com
-104.16.147.241 en.chaturbate.com
-104.16.146.241 pt.chaturbate.com
-104.16.146.241 m.chaturbate.com support.chaturbate.com
-64.38.230.2 stream.highwebmedia.com highwebmedia.com www.highwebmedia.com *.stream.highwebmedia.com
+104.18.90.31 chaturbate.com
+104.18.101.40 public.chaturbate.com
+104.18.90.31 jp.chaturbate.com
+104.18.90.31 nl.chaturbate.com
+104.18.90.31 it.chaturbate.com
+104.18.90.31 tr.chaturbate.com
+104.18.90.31 hi.chaturbate.com
+104.18.90.31 es.chaturbate.com
+104.18.90.31 ru.chaturbate.com
+104.18.90.31 ei.chaturbate.com
+104.18.90.31 blog.chaturbate.com
+104.18.90.31 en.chaturbate.com
+104.18.90.31 pt.chaturbate.com
+104.18.90.31 m.chaturbate.com support.chaturbate.com
+64.38.230.2 stream.highwebmedia.com highwebmedia.com www.highwebmedia.com
 104.16.47.55 camo.stream.highwebmedia.com
 104.16.46.23 ssl-ccstatic.highwebmedia.com
 64.38.211.174 chatws21.highwebmedia.com
@@ -691,7 +761,7 @@
 104.28.31.244 javhd3x.com www.javhd3x.com
 
 # [JAVHD4K.COM]
-104.27.156.165 javhd4k.com www.javhd4k.com
+104.28.5.43 javhd4k.com www.javhd4k.com
 
 # [PORNHD3X.TO]
 104.24.102.38 pornhd3x.to www.pornhd3x.to
@@ -1196,13 +1266,10 @@
 104.236.82.224 hleecher.tk www.hleecher.tk
 
 # [PORNPICS.COM]
-108.60.221.53 pornpics.com www.pornpics.com
-108.60.221.53 css.pornpics.com
-104.37.178.118 content.pornpics.com
-104.37.178.118 static.pornpics.com
-104.37.178.118 img.pornpics.com
-213.174.135.1 images.pornpics.com
-208.99.84.104 cdn.pornpics.com
+213.174.149.180 pornpics.com www.pornpics.com css.pornpics.com
+208.99.84.100 images.pornpics.com img.pornpics.com
+208.99.84.104 cdn.pornpics.com static.pornpics.com
+208.99.84.102 content.pornpics.com
 
 # [0XXX.WS]
 185.66.141.130 0xxx.ws www.0xxx.ws
@@ -1447,12 +1514,8 @@
 104.31.76.51 xdezire.com www.xdezire.com jav.xdezire.com
 
 # [NIJIE.INFO]
-160.16.107.42 nijie.info www.nijie.info
-160.16.63.177 pic01.nijie.info pic03.nijie.info
-160.16.213.146 pic02.nijie.info
-160.16.65.50 pic04.nijie.info
-160.16.62.102 pic05.nijie.info
-160.16.78.98 hc.b1.imgw.nijie.info
+160.16.63.177 nijie.info www.nijie.info pic01.nijie.info pic03.nijie.info
+160.16.78.98 pic02.nijie.info pic04.nijie.info hc.b1.imgw.nijie.info pic05.nijie.info
 
 # [CAMWHORES.TV]
 89.248.174.139 camwhores.tv www.camwhores.tv
@@ -1814,8 +1877,7 @@
 
 # [NOZOMI.LA]
 185.145.129.33 nozomi.la www.nozomi.la
-192.240.120.10 j.nozomi.la aa.hitomi.la ba.hitomi.la hf2.hitomi.la tn.hitomi.la
-192.240.120.10 atn.hitomi.la btn.hitomi.la streaming.hitomi.la ltn.hitomi.la
+192.240.120.10 j.nozomi.la
 
 # [PORNHD.TO]
 104.27.140.50 pornhd.to www.pornhd.to
@@ -2568,17 +2630,13 @@
 5.178.68.69 konachan.com
 
 # [TSUMINO.COM]
-104.28.3.29 tsumino.com
-163.172.159.189 cdn.staging.tsumino.com
-104.28.2.29 ga.tsumino.com
-104.28.2.29 www.tsumino.com
-167.114.116.55 r34.tsumino.com
+104.28.3.29 tsumino.com www.tsumino.com content.tsumino.com
 
 # [PORNEQ.COM]
 163.172.85.31 porneq.com
 
 # [NEWGROUNDS.COM]
-142.44.137.231 www.newgrounds.com newgrounds.com
+54.39.105.143 newgrounds.com www.newgrounds.com
 
 # [MOFOS.COM]
 216.18.168.90 members2.mofos.com
@@ -2642,34 +2700,53 @@
 104.28.8.24 mp4hentai.com www.mp4hentai.com
 
 # [NETFLIX.COM]
-23.44.160.210 secure.netflix.com
-35.161.193.3 movies.netflix.com
-52.89.152.185 cbp-us.nccp.netflix.com
-35.153.94.156 movies1.netflix.com
-52.51.43.226 movies2.netflix.com
-207.45.72.201 dvd.netflix.com autocomplete.netflix.com bluray.netflix.com
-52.35.135.231 moviecontrol.netflix.com
-52.27.92.135 api.netflix.com
-54.68.141.65 www2.netflix.com
-52.38.81.70 nccp-nrdp-31.cloud.netflix.net
-52.40.31.103 ios.nccp.netflix.com
-34.214.51.73 uiboot.netflix.com
-52.42.209.103 signup.netflix.com
-54.208.4.8 nccp-fuji.cloud.netflix.net nccp-nato.cloud.netflix.net
-184.25.56.188 mcdn.netflix.com
-35.163.147.163 nccp-ps3.cloud.netflix.net
-54.213.39.40 api-user.netflix.com
-184.26.82.98 assets.nflxext.com
-69.172.200.241 ir.netflix.com
-54.192.13.23 media.netflix.com
-34.211.85.116 help.netflix.com
-34.210.61.133 jobs.netflix.com
-184.26.82.98 codex.nflxext.com
-207.45.72.215 nflxext.com nflximg.com
-52.37.168.202 api-global.netflix.com
-52.34.255.169 ichnaea.netflix.com
+54.71.111.34 netflix.com www.netflix.com
+34.213.151.116 netflix.com www.netflix.com
+35.160.7.30 netflix.com www.netflix.com
 35.160.112.124 netflix.com www.netflix.com
-52.32.78.165 netflix.co.id www.netflix.co.id
+35.164.65.152 netflix.com www.netflix.com
+52.26.111.43 netflix.com www.netflix.com
+52.37.69.124 netflix.com www.netflix.com
+52.37.77.112 netflix.com www.netflix.com
+52.37.219.6 netflix.com www.netflix.com
+34.246.63.0 netflix.com www.netflix.com
+34.249.125.167 netflix.com www.netflix.com
+52.49.120.6 netflix.com www.netflix.com
+52.209.224.161 netflix.com www.netflix.com
+54.76.60.39 netflix.com www.netflix.com
+54.77.162.193 netflix.com www.netflix.com
+54.171.21.76 netflix.com www.netflix.com
+54.229.68.77 netflix.com www.netflix.com
+50.17.247.31 netflix.co.id www.netflix.co.id
+23.35.181.192 secure.netflix.com
+52.42.49.110 movies.netflix.com
+34.227.70.20 movies1.netflix.com
+54.76.211.129 movies2.netflix.com
+52.88.21.77 cbp-us.nccp.netflix.com
+207.45.72.201 dvd.netflix.com autocomplete.netflix.com bluray.netflix.com
+52.40.161.141 moviecontrol.netflix.com
+34.215.6.52 api.netflix.com
+54.148.48.62 www2.netflix.com
+35.163.147.163 nccp-nrdp-31.cloud.netflix.net
+35.164.199.73 ios.nccp.netflix.com
+34.216.95.171 uiboot.netflix.com
+50.112.169.227 signup.netflix.com
+34.226.85.54 nccp-fuji.cloud.netflix.net nccp-nato.cloud.netflix.net
+184.25.56.220 mcdn.netflix.com
+52.25.210.146 nccp-ps3.cloud.netflix.net
+52.36.6.165 api-user.netflix.com
+45.57.91.1 assets.nflxext.com codex.nflxext.com
+52.32.240.186 ir.netflix.com
+13.249.79.11 media.netflix.com
+54.201.122.47 help.netflix.com
+52.11.96.195 jobs.netflix.com
+207.45.72.215 nflxext.com
+52.37.69.124 nflximg.com
+50.17.247.31 nflxvideo.net
+207.45.72.215 nflximg.net
+54.187.138.220 api-global.netflix.com
+54.69.204.241 ichnaea.netflix.com
+52.40.16.103 account.netflix.com
 
 # [KISSMANGA.COM]
 104.25.45.113 kissmanga.com www.kissmanga.com
@@ -3131,8 +3208,9 @@
 5.44.219.124 asexon.com www.asexon.com
 
 # [AVGLE.COM]
-104.20.116.27 avgle.com www.avgle.com
-213.174.135.2 static-clst.avgle.com
+104.27.154.26 avgle.com
+104.27.155.26 www.avgle.com
+213.174.135.3 static-clst.avgle.com www.static-clst.avgle.com
 
 # [TUOI69.COM]
 104.27.178.187 tuoi69.com www.tuoi69.com
@@ -3799,7 +3877,10 @@
 104.28.6.40 notsfw.to www.notsfw.to
 
 # [GETCHU.COM]
-210.155.150.166 getchu.com www.getchu.com
+210.155.150.145 getchu.com www.getchu.com www4.getchu.com www2.getchu.com
+210.140.45.147 dl.getchu.com
+210.155.150.152 ssl.getchu.com search.getchu.com ranking.getchu.com
+203.104.130.159 blog.getchu.com
 
 # [HENTAI4MANGA.COM]
 50.7.96.171 hentai4manga.com www.hentai4manga.com
@@ -3808,18 +3889,8 @@
 99.84.254.72 manyvids.com www.manyvids.com
 
 # [JAV.GURU]
-104.25.142.28 jav.guru 
-104.25.143.28 jav.guru
-104.25.143.28 www.jav.guru 
-104.25.142.28 www.jav.guru
+104.25.143.28 jav.guru www.jav.guru 
 104.25.142.28 static.jav.guru
-98.143.145.143 server.jav.guru
-104.25.142.28 ns2.jav.guru 
-104.25.143.28 ns2.jav.guru 
-104.25.142.28 ns1.jav.guru 
-104.25.143.28 ns1.jav.guru 
-104.25.142.28 test.jav.guru
-104.25.143.28 test.jav.guru
 
 # [BBCSREBORN.COM]
 159.65.137.142 bbcsreborn.com www.bbcsreborn.com
@@ -4028,7 +4099,7 @@
 104.31.17.3 limetorrents.cc limetorrents.cc
 
 # [SXYPRN.COM]
-104.27.141.149 sxyprn.com www.sxyprn.com
+172.64.207.7 sxyprn.com www.sxyprn.com
 
 # [HENTAINEXUS.COM]
 104.31.73.80 hentainexus.com
@@ -4345,6 +4416,79 @@
 37.49.228.119 cpanel.kimochi.tv
 37.49.228.119 webmail.kimochi.tv
 
+# [TOPWEBMODELS.COM]
+74.206.162.148 topwebmodels.com www.topwebmodels.com tour.topwebmodels.com members.topwebmodels.com
+
+# [INSTANTFAP.COM] 
+104.24.107.241 instantfap.com www.instantfap.com
+
+ # [TXXX.COM]
+104.20.72.110 txxx.com www.txxx.com
+
+ # [EPORNER.COM]
+82.192.65.65 eporner.com
+82.192.65.65 www.eporner.com
+185.132.134.85 static-eu-cdn.eporner.com
+
+ # [7MM.TV]
+104.27.146.208 7mm.tv www.7mm.tv
+104.18.39.251 7mmtv.tv  www.7mmtv.tv 
+163.172.90.92 file.7mmtv.tv 
+
+ # [THISAV.COM]
+104.27.196.89 thisav.com www.thisav.com
+104.27.196.89 cdn.thisav.com
+192.200.112.78 static.thisav.com
+
+ # [KISSJAV.COM]
+82.118.242.43 kissjav.com www.kissjav.com
+23.237.108.34 media7.kissjav.com
+23.237.106.26 media8.kissjav.com
+23.237.60.90 media9.kissjav.com
+
+ # [UNCENSOREDLEAK.COM]
+82.118.242.43 uncensoredleak.com www.uncensoredleak.com
+23.237.108.34 video1.uncensoredleak.com
+
+# [VJAV.COM]
+104.25.23.99 vjav.com www.vjav.com cn.vjav.com it.vjav.com member.vjav.com
+
+# [BIQLE.COM]
+104.18.45.117 biqle.com www.biqle.com
+
+# [JAVHD8K.BLOGSPOT.COM]
+216.58.194.161 javhd8k.blogspot.com www.javhd8k.blogspot.com
+
+ # [JAVNEW.NET]
+104.27.130.4 javnew.net www.javnew.net
+
+ # [AVENTERTAINMENTS.COM]
+69.28.53.205 aventertainments.com www.aventertainments.com
+69.28.53.210 vod.aventertainments.com
+
+ # [PORNCLIPSXXX.COM]
+145.239.192.237 pornclipsxxx.com www.pornclipsxxx.com
+91.134.128.45 media2.pornclipsxxx.com
+91.134.128.91 media4.pornclipsxxx.com
+
+# [KPOPDEEPFAKES.NET]
+149.56.27.151 kpopdeepfakes.net www.kpopdeepfakes.net
+
+# [ANIMEHOLICS.ORG]
+104.28.20.124 animeholics.org www.animeholics.org
+104.28.20.124 hentai.animeholics.org sakuracircle.animeholics.org
+
+# [MUCHOHENTAI.COM]
+104.27.243.250 muchohentai.com www.muchohentai.com
+104.27.243.250 static1.muchohentai.com static2.muchohentai.com static3.muchohentai.com
+104.27.243.250 static4.muchohentai.com static5.muchohentai.com 
+
+# [FBS.COM]
+104.26.12.242 fbs.com www.fbs.com cdn.fbs.com
+
+ # [REDBLED.COM]
+67.227.202.204 redbled.com www.redbled.com 
+
 # [BlockerIsp-CelullerNet]
 127.0.0.1 internetbaik.telkomsel.com
 127.0.0.1 internet.tri.co.id 
@@ -4353,141 +4497,3 @@
 127.0.0.1   ads.indosatooredoo.com
 127.0.0.1   netsafe.indosatooredoo.com
 127.0.0.1 114.6.128.4
-
-# [AD-BLOCK SITE]
-127.0.0.1 www.nutaku.net
-127.0.0.1 uod2quk646.com
-127.0.0.1 serve.popads.net
-127.0.0.1 ssl2anyone3.com
-127.0.0.1 track.thriversis.com
-127.0.0.1 syndication.exdynsrv.com
-127.0.0.1 notifychheck.com
-127.0.0.1 0byv9mgbn0.com
-127.0.0.1 206.189.144.187
-127.0.0.1 b3z29k1uxb.com
-127.0.0.1 denjing9anas.xyz
-127.0.0.1 www.thifygbv.info
-127.0.0.1 syndication.exosrv.com
-127.0.0.1 constintptr.com
-127.0.0.1 stremanp.com
-127.0.0.1 www.ecpms.net
-127.0.0.1 padssup.com
-127.0.0.1 www.xiuwakercns.com
-127.0.0.1 delopen.com
-127.0.0.1 stremanp.com
-127.0.0.1 a.adtng.com
-127.0.0.1 main.exosrv.com
-
-# [AntiYoutubeAds]
-127.0.0.1 ads.doubleclick.net
-127.0.0.1 s.ytimg.com
-127.0.0.1 ad.youtube.com
-127.0.0.1 ads.youtube.com
-127.0.0.1 clients1.google.com
-127.0.0.1 dts.innovid.com
-127.0.0.1 googleads4.g.doubleclick.net
-127.0.0.1 pagead2.googlesyndication.com
-127.0.0.1 pixel.moatads.com
-127.0.0.1 rtd.tubemogul.com
-127.0.0.1 s.innovid.com
-127.0.0.1 pubads.g.doubleclick.net
-127.0.0.1 ssl.google-analytics.com
-127.0.0.1 www-google-analytics.l.google.com
-127.0.0.1 stats.g.doubleclick.net
-127.0.0.1 clients.l.google.com
-127.0.0.1 pagead.l.doubleclick.net
-127.0.0.1 www.googletagmanager.l.google.com
-127.0.0.1 googleadapis.l.google.com
-127.0.0.1 s0.2mdn.net
-127.0.0.1 googleads.g.doubleclick.net
-127.0.0.1 files.adform.net
-127.0.0.1 secure-ds.serving-sys.com
-127.0.0.1 securepubads.g.doubleclick.net
-127.0.0.1 s.youtube.com
-127.0.0.1 2975c.v.fwmrm.net
-127.0.0.1 static.doubleclick.net
-127.0.0.1 googleadservices.com
-127.0.0.1 ad-g.doubleclick.net
-127.0.0.1 ad.doubleclick.net
-127.0.0.1 ad.mo.doubleclick.net
-127.0.0.1 doubleclick.net
-127.0.0.1 pagead.googlesyndication.com
-127.0.0.1 pagead1.googlesyndication.com
-127.0.0.1 www.googleadservices.com
-127.0.0.1 youtube-nocookie.com
-127.0.0.1 www.youtube-nocookie.com
-127.0.0.1 analytic-google.com
-127.0.0.1 www.analytic-google.com
-127.0.0.1 www.googletagservices.com
-127.0.0.1 fwmrm.net
-127.0.0.1 innovid.com
-127.0.0.1 2mdn.net
-127.0.0.1 127.0.0.1
-127.0.0.1 fwmrm.net
-127.0.0.1 innovid.com
-127.0.0.1 2mdn.net
-127.0.0.1 securepubads.g.doubleclick.net
-127.0.0.1 suggestqueries.google.com
-127.0.0.1 redirector.googlevideo.com
-127.0.0.1 ads.youtube.com
-127.0.0.1 s0.2mdn.net
-127.0.0.1 s1.2mdn.net
-127.0.0.1 googleads.g.doubleclick.net
-127.0.0.1 pubads.g.doubleclick.net
-127.0.0.1 ad.doubleclick.net
-127.0.0.1 static.doubleclick.net
-127.0.0.1 ads.doubleclick.net
-127.0.0.1 s.ytimg.com
-127.0.0.1 ad.youtube.com
-127.0.0.1 ads.youtube.com
-127.0.0.1 www.gstatic.com
-127.0.0.1 gstatic.com
-127.0.0.1 clients1.google.com
-127.0.0.1 dts.innovid.com
-127.0.0.1 googleads.g.doubleclick.net
-127.0.0.1 googleads4.g.doubleclick.net
-127.0.0.1 pagead2.googlesyndication.com
-127.0.0.1 pixel.moatads.com
-127.0.0.1 rtd.tubemogul.com
-127.0.0.1 s.youtube.com
-127.0.0.1 s.innovid.com
-127.0.0.1 pubads.g.doubleclick.net
-127.0.0.1 ssl.google-analytics.com
-127.0.0.1 www-google-analytics.l.google.com
-127.0.0.1 stats.g.doubleclick.net
-127.0.0.1 clients.l.google.com
-127.0.0.1 pagead.l.doubleclick.net
-127.0.0.1 www-googletagmanager.l.google.com
-127.0.0.1 googleadapis.l.google.com
-127.0.0.1 s0.2mdn.net
-127.0.0.1 googleads.g.doubleclick.net
-127.0.0.1 ad.doubleclick.net
-127.0.0.1 files.adform.net
-127.0.0.1 secure-ds.serving-sys.com
-127.0.0.1 securepubads.g.doubleclick.net
-127.0.0.1 s.youtube.com
-127.0.0.1 apis.google.com
-127.0.0.1 2975c.v.fwmrm.net
-127.0.0.1 static.doubleclick.net
-127.0.0.1 googleadservices.com
-127.0.0.1 ad-g.doubleclick.net
-127.0.0.1 ad.doubleclick.net
-127.0.0.1 ad.mo.doubleclick.net
-127.0.0.1 doubleclick.net
-127.0.0.1 googleads.g.doubleclick.net
-127.0.0.1 pagead.googlesyndication.com
-127.0.0.1 pagead1.googlesyndication.com
-127.0.0.1 pagead2.googlesyndication.com
-127.0.0.1 www.googleadservices.com
-127.0.0.1 youtube-nocookie.com
-127.0.0.1 www.youtube-nocookie.com
-127.0.0.1 analytic-google.com
-127.0.0.1 www.analytic-google.com
-127.0.0.1 www.googletagservices.com
-127.0.0.1 fwmrm.net
-127.0.0.1 innovid.com
-127.0.0.1 2mdn.net
-127.0.0.1 127.0.0.1
-127.0.0.1 fwmrm.net
-127.0.0.1 innovid.com
-127.0.0.1 2mdn.net
